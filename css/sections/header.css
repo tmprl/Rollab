@@ -29,11 +29,10 @@
     opacity: 0.9;
 }
 
-.header__menu,
-.header__menu-mobile {
+.header__menu, .header__menu-mobile {
   padding: 20px;
 
-  flex: 1.235;
+  flex: 1.191;
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -41,6 +40,7 @@
 
   list-style: none;
 }
+
 
 .header__menu li {
   font-weight: 500;
