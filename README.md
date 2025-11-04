@@ -1,1 +1,1 @@
-# Rollab - It's the website I'm learning to build using vite build tool.
+# Rollab - It's the website I'm learning to build using vite build tool. Thus, I am using BEM methodology to structure website easy to read, make easy to add new styles, and changes will not break other pieces of website!
